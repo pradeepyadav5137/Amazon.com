@@ -134,7 +134,7 @@ margin-top: -5px;
 
 .headerone li{
     list-style: none;
-    padding: 8px 8px;
+    padding: 8px 7px;
 }
 
 .headerone li:hover{
@@ -482,10 +482,12 @@ margin-top: -5px;
 }
 
 
-.container:hover {
+/* .container:hover {
     background-color: #37475a;
+    color: white;
 }
 
 .container2:hover {
     background-color: #7f91a8;
-}
+    color: white;
+} */
